@@ -19,7 +19,6 @@
 		0D6DEEAE1C3583EB000393B8 /* death.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0D6DEEA91C3583EB000393B8 /* death.wav */; };
 		0D6DEEAF1C3583EB000393B8 /* heart.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0D6DEEAA1C3583EB000393B8 /* heart.wav */; };
 		0D6DEEB01C3583EB000393B8 /* skull.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0D6DEEAB1C3583EB000393B8 /* skull.wav */; };
-		0D6DEEB21C35BD52000393B8 /* John.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6DEEB11C35BD52000393B8 /* John.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +36,6 @@
 		0D6DEEA91C3583EB000393B8 /* death.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = death.wav; sourceTree = "<group>"; };
 		0D6DEEAA1C3583EB000393B8 /* heart.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = heart.wav; sourceTree = "<group>"; };
 		0D6DEEAB1C3583EB000393B8 /* skull.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = skull.wav; sourceTree = "<group>"; };
-		0D6DEEB11C35BD52000393B8 /* John.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = John.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +81,6 @@
 				0D6A48EB1C34998A0023964D /* Assets.xcassets */,
 				0D6A48ED1C34998A0023964D /* LaunchScreen.storyboard */,
 				0D6A48F01C34998A0023964D /* Info.plist */,
-				0D6DEEB11C35BD52000393B8 /* John.swift */,
 			);
 			path = MyLittleMonster;
 			sourceTree = "<group>";
@@ -166,7 +163,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D6DEEA61C357240000393B8 /* MonsterImg.swift in Sources */,
-				0D6DEEB21C35BD52000393B8 /* John.swift in Sources */,
 				0D32F5E51C34A8A200C04D31 /* DragImg.swift in Sources */,
 				0D6A48E71C34998A0023964D /* ViewController.swift in Sources */,
 				0D6A48E51C34998A0023964D /* AppDelegate.swift in Sources */,
